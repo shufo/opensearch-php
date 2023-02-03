@@ -1,3 +1,5 @@
+Forked from [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php).
+
 ![OpenSearch logo](OpenSearch.svg)
 
 - [Welcome!](#welcome)
