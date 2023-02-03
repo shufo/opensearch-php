@@ -1,4 +1,5 @@
 Forked from [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php).
+:warning: Do not use this for production.
 
 ![OpenSearch logo](OpenSearch.svg)
 
@@ -15,18 +16,18 @@ Forked from [opensearch-project/opensearch-php](https://github.com/opensearch-pr
 
 ## Project Resources
 
-* [Project Website](https://opensearch.org/)
-* [User Guide](https://github.com/opensearch-project/opensearch-php/blob/main/USER_GUIDE.md)
-* [Developer Guide](https://github.com/opensearch-project/opensearch-php/blob/main/DEVELOPER_GUIDE.md)
-* [Downloads](https://opensearch.org/downloads.html).
-* [Documentation](https://opensearch.org/docs/latest/)
-* Need help? Try [Forums](https://discuss.opendistrocommunity.dev/)
-* [Project Principles](https://opensearch.org/#principles)
-* [Contributing to OpenSearch](https://github.com/opensearch-project/opensearch-php/blob/main/CONTRIBUTING.md)
-* [Maintainer Responsibilities](https://github.com/opensearch-project/opensearch-php/blob/main/MAINTAINERS.md)
-* [Release Management](https://github.com/opensearch-project/opensearch-php/blob/main/RELEASING.md)
-* [Admin Responsibilities](https://github.com/opensearch-project/opensearch-php/blob/main/ADMINS.md)
-* [Security](https://github.com/opensearch-project/opensearch-php/blob/main/SECURITY.md)
+- [Project Website](https://opensearch.org/)
+- [User Guide](https://github.com/opensearch-project/opensearch-php/blob/main/USER_GUIDE.md)
+- [Developer Guide](https://github.com/opensearch-project/opensearch-php/blob/main/DEVELOPER_GUIDE.md)
+- [Downloads](https://opensearch.org/downloads.html).
+- [Documentation](https://opensearch.org/docs/latest/)
+- Need help? Try [Forums](https://discuss.opendistrocommunity.dev/)
+- [Project Principles](https://opensearch.org/#principles)
+- [Contributing to OpenSearch](https://github.com/opensearch-project/opensearch-php/blob/main/CONTRIBUTING.md)
+- [Maintainer Responsibilities](https://github.com/opensearch-project/opensearch-php/blob/main/MAINTAINERS.md)
+- [Release Management](https://github.com/opensearch-project/opensearch-php/blob/main/RELEASING.md)
+- [Admin Responsibilities](https://github.com/opensearch-project/opensearch-php/blob/main/ADMINS.md)
+- [Security](https://github.com/opensearch-project/opensearch-php/blob/main/SECURITY.md)
 
 ## Code of Conduct
 
