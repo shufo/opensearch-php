@@ -39,7 +39,7 @@ class SmartSerializer implements SerializerInterface
         if (is_string($data) === true) {
             return $data;
         } else {
-            $data = json_encode($data, JSON_PRESERVE_ZERO_FRACTION + JSON_INVALID_UTF8_SUBSTITUTE + JSON_PARTIAL_OUTPUT_ON_ERROR + JSON_PRETTY_PRINT);
+            $data = json_encode($data, JSON_PRESERVE_ZERO_FRACTION + JSON_INVALID_UTF8_SUBSTITUTE + JSON_PARTIAL_OUTPUT_ON_ERROR);
             if ($data === false) {
                 throw new Exceptions\RuntimeException("Failed to JSON encode: ".json_last_error_msg());
             }
