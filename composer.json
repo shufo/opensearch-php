@@ -1,15 +1,23 @@
 {
-  "name": "opensearch-project/opensearch-php",
-  "description": "PHP Client for OpenSearch",
-  "keywords": ["search","client", "opensearch","elasticsearch"],
+  "name": "shufo/opensearch-php",
+  "description": "PHP Client for OpenSearch (Forked from official client)",
+  "keywords": [
+    "search",
+    "client",
+    "opensearch",
+    "elasticsearch"
+  ],
   "type": "library",
-  "license": ["Apache-2.0", "LGPL-2.1-only"],
+  "license": [
+    "Apache-2.0",
+    "LGPL-2.1-only"
+  ],
   "authors": [
     {
-        "name": "Elastic"
+      "name": "Elastic"
     },
     {
-        "name": "OpenSearch Contributors"
+      "name": "OpenSearch Contributors"
     }
   ],
   "require": {
